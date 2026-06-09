@@ -2,7 +2,7 @@
 
 ФИО: Зотов Владислав Сергеевич
 Группа: РПО 9/1
-Ссылка на GitHub:
+Ссылка на GitHub: https://github.com/Resolushh/practic_work
 
 ## Выполненные коммиты
 
@@ -12,6 +12,8 @@
 4. docs: add report and test notes
 5. chore: add gitignore
 6. docs: update usage information
+7. chore: replace instruction with history notes
+8. docs: add github repository link
 
 ## Что получилось
 
