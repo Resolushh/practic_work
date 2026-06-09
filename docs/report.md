@@ -14,6 +14,7 @@
 6. docs: update usage information
 7. chore: replace instruction with history notes
 8. docs: add github repository link
+9. docs: update project history
 
 ## Что получилось
 
