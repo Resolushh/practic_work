@@ -10,6 +10,8 @@
 2. feat: add task journal script
 3. data: add sample tasks
 4. docs: add report and test notes
+5. chore: add gitignore
+6. docs: update usage information
 
 ## Что получилось
 
